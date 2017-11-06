@@ -1424,7 +1424,8 @@ public: System::Windows::Forms::PictureBox^  pictureBoxC1;
 public: System::Void pictureBoxA1_Click(System::Object^  sender, System::EventArgs^  e) {
 	//Match->getPiece(Converting(((PictureBox^)sender)->Tag->ToString()))->move({ 1,2 });
 	//MessageBox::Show(Match->getPiece(/*Converting(((PictureBox^)sender)->Tag->ToString()))*/0)->getType());
-	Match->getPiece(0)->move({ 1,2 });
+	//I just wanna push myself through ice to see the world from underwater
+	Match->getPiece(0)->move({ 1,3 });
 	DeskDraw();
 }
 };

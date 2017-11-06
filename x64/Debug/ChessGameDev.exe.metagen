@@ -1,0 +1,93 @@
+  ChessGameDev.MyForm.resources - Embedded, ContainedInManifestFile, 
+  ChessGameDev.Resource.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ChessGameDev, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ChessGameDev.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Game* Match : Public
+    System.Windows.Forms.Button button1 : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.PictureBox pictureBox9 : Public
+    System.Windows.Forms.PictureBox pictureBox10 : Public
+    System.Windows.Forms.PictureBox pictureBox11 : Public
+    System.Windows.Forms.PictureBox pictureBox12 : Public
+    System.Windows.Forms.PictureBox pictureBox13 : Public
+    System.Windows.Forms.PictureBox pictureBox14 : Public
+    System.Windows.Forms.PictureBox pictureBoxA8 : Public
+    System.Windows.Forms.PictureBox pictureBoxB8 : Public
+    System.Windows.Forms.PictureBox pictureBox17 : Public
+    System.Windows.Forms.PictureBox pictureBox18 : Public
+    System.Windows.Forms.PictureBox pictureBox19 : Public
+    System.Windows.Forms.PictureBox pictureBox20 : Public
+    System.Windows.Forms.PictureBox pictureBox21 : Public
+    System.Windows.Forms.PictureBox pictureBox22 : Public
+    System.Windows.Forms.PictureBox pictureBoxB7 : Public
+    System.Windows.Forms.PictureBox pictureBoxA7 : Public
+    System.Windows.Forms.PictureBox pictureBox1 : Public
+    System.Windows.Forms.PictureBox pictureBox2 : Public
+    System.Windows.Forms.PictureBox pictureBox3 : Public
+    System.Windows.Forms.PictureBox pictureBox4 : Public
+    System.Windows.Forms.PictureBox pictureBox5 : Public
+    System.Windows.Forms.PictureBox pictureBox6 : Public
+    System.Windows.Forms.PictureBox pictureBoxA6 : Public
+    System.Windows.Forms.PictureBox pictureBoxB6 : Public
+    System.Windows.Forms.PictureBox pictureBox25 : Public
+    System.Windows.Forms.PictureBox pictureBox26 : Public
+    System.Windows.Forms.PictureBox pictureBox27 : Public
+    System.Windows.Forms.PictureBox pictureBox28 : Public
+    System.Windows.Forms.PictureBox pictureBox29 : Public
+    System.Windows.Forms.PictureBox pictureBox30 : Public
+    System.Windows.Forms.PictureBox pictureBoxB5 : Public
+    System.Windows.Forms.PictureBox pictureBoxA5 : Public
+    System.Windows.Forms.PictureBox pictureBox33 : Public
+    System.Windows.Forms.PictureBox pictureBox34 : Public
+    System.Windows.Forms.PictureBox pictureBox35 : Public
+    System.Windows.Forms.PictureBox pictureBox36 : Public
+    System.Windows.Forms.PictureBox pictureBox37 : Public
+    System.Windows.Forms.PictureBox pictureBox38 : Public
+    System.Windows.Forms.PictureBox pictureBoxA4 : Public
+    System.Windows.Forms.PictureBox pictureBoxB4 : Public
+    System.Windows.Forms.PictureBox pictureBox41 : Public
+    System.Windows.Forms.PictureBox pictureBox42 : Public
+    System.Windows.Forms.PictureBox pictureBox43 : Public
+    System.Windows.Forms.PictureBox pictureBox44 : Public
+    System.Windows.Forms.PictureBox pictureBox45 : Public
+    System.Windows.Forms.PictureBox pictureBox46 : Public
+    System.Windows.Forms.PictureBox pictureBoxB3 : Public
+    System.Windows.Forms.PictureBox pictureBoxA3 : Public
+    System.Windows.Forms.PictureBox pictureBox49 : Public
+    System.Windows.Forms.PictureBox pictureBox50 : Public
+    System.Windows.Forms.PictureBox pictureBox51 : Public
+    System.Windows.Forms.PictureBox pictureBox52 : Public
+    System.Windows.Forms.PictureBox pictureBox53 : Public
+    System.Windows.Forms.PictureBox pictureBox54 : Public
+    System.Windows.Forms.PictureBox pictureBoxA2 : Public
+    System.Windows.Forms.PictureBox pictureBoxB2 : Public
+    System.Windows.Forms.PictureBox pictureBox57 : Public
+    System.Windows.Forms.PictureBox pictureBox58 : Public
+    System.Windows.Forms.PictureBox pictureBox59 : Public
+    System.Windows.Forms.PictureBox pictureBox60 : Public
+    System.Windows.Forms.PictureBox pictureBox61 : Public
+    System.Windows.Forms.PictureBox pictureBox62 : Public
+    System.Windows.Forms.PictureBox pictureBoxB1 : Public
+    System.Windows.Forms.PictureBox pictureBoxA1 : Public
+  Methods:
+    DeskDraw(): PrivateScope, Public, HideBySig
+    CellDraw(Piece*): PrivateScope, Public, HideBySig

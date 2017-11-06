@@ -1,0 +1,8 @@
+﻿  Classes.cpp
+  MyForm.cpp
+  Source.cpp
+  Generating Code...
+c:\users\peopl\documents\visual studio 2017\projects\chessgamedev\chessgamedev\classes.cpp(109): warning C4715: 'Converting': not all control paths return a value
+c:\users\peopl\documents\visual studio 2017\projects\chessgamedev\chessgamedev\classes.cpp(117): warning C4715: 'Converting': not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ChessGameDev.vcxproj -> C:\Users\peopl\documents\visual studio 2017\Projects\ChessGameDev\x64\Debug\ChessGameDev.exe

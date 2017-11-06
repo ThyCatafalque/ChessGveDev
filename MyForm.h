@@ -1426,6 +1426,7 @@ public: System::Void pictureBoxA1_Click(System::Object^  sender, System::EventAr
 	//MessageBox::Show(Match->getPiece(/*Converting(((PictureBox^)sender)->Tag->ToString()))*/0)->getType());
 	//I just wanna push myself through ice to see the world from underwater
 	Match->getPiece(0)->move({ 1,3 });
+	Match->getPiece(0)->move({ 1,5 });
 	DeskDraw();
 }
 };
